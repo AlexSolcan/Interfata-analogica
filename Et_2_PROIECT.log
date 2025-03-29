@@ -1,0 +1,31 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\solx\Desktop\Proiect_SCIA_SolcanLazarAlexandru\Proiect_SCIA_SolcanLazarAlexandru\Et_2_PROIECT.asc
+Start Time: Tue Jan 14 08:47:02 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Less than two connections to node vin_ac.  This node is used by v4.
+Direct Newton iteration for .op point succeeded.
+N-Period=1
+Fourier components of V(vo1)
+DC component:0.000286547
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 8.000e+3	 1.699e-9	 1.000e+0	 -109.17°	    0.00°
+    2   	 1.600e+4	 6.003e-10	 3.533e-1	  143.96°	  253.13°
+    3   	 2.400e+4	 3.109e-10	 1.830e-1	    5.35°	  114.51°
+    4   	 3.200e+4	 2.392e-10	 1.408e-1	 -117.73°	   -8.56°
+    5   	 4.000e+4	 1.899e-10	 1.117e-1	   90.09°	  199.25°
+    6   	 4.800e+4	 1.707e-10	 1.005e-1	  -50.30°	   58.87°
+    7   	 5.600e+4	 1.491e-10	 8.777e-2	  166.69°	  275.86°
+    8   	 6.400e+4	 1.180e-10	 6.947e-2	   23.18°	  132.35°
+    9   	 7.200e+4	 1.156e-10	 6.804e-2	 -124.38°	  -15.21°
+Partial Harmonic Distortion: 46.680354%
+Total Harmonic Distortion:   49.981333%
+
+
+Total elapsed time: 0.173 seconds.
+
